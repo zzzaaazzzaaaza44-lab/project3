@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 I am a motivated student interested in **Software Engineering** and web development.
-I am preparing my academic and technical profile for applying to the **Russian Government Scholarship**.
+I am preparing my academic and technical profile .
 
 I focus on building practical projects that demonstrate my understanding of programming fundamentals, logical thinking, and problem-solving.
 
@@ -26,12 +26,15 @@ I focus on building practical projects that demonstrate my understanding of prog
 ## 💼 Projects
 - **Product Management System**  
   A web-based application that allows users to manage products (add, edit, delete, view).
-  TO view,follow this link (https://zzzaaazzzaaaza44-lab.github.io/coursera-test-/)
-  👉 [ https://github.com/zzzaaazzzaaaza44-lab/coursera-test-/blob/main/README.md ]( Link the project )
+  
+   the website link(https://zzzaaazzzaaaza44-lab.github.io/coursera-test-/)
+  
+  👉 the GitHub link [ https://github.com/zzzaaazzzaaaza44-lab/coursera-test-/blob/main/README.md ]
   **System store**
   A web application that allows users to make purchases, but it's not a real-world sales platform; it's simply a comprehensive project concept.
-  TO view,follow this link(https://zzzaaazzzaaaza44-lab.github.io/project7/)
-ا.                                                          (Link the project )   ( https://github.com/zzzaaazzzaaaza44-lab/project7 )
+  the website link(https://zzzaaazzzaaaza44-lab.github.io/project7/)
+  
+ the GitHup link ( https://github.com/zzzaaazzzaaaza44-lab/project7)
   
 
 ---
