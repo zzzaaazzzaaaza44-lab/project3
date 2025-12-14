@@ -48,11 +48,7 @@ I focus on building practical projects that demonstrate my understanding of prog
 
 ---
 
-## 📫 Contact Me
-- GitHub: https://github.com/اسمك
-- Email: your.email@example.com
 
----
 
 ## ⭐ Notes
 This profile highlights my technical skills and independent projects as part of my preparation for academic studies in
