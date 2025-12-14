@@ -26,10 +26,10 @@ I focus on building practical projects that demonstrate my understanding of prog
 ## 💼 Projects
 - **Product Management System**  
   A web-based application that allows users to manage products (add, edit, delete, view).  
-  👉 [ https://github.com/zzzaaazzzaaaza44-lab/coursera-test-/blob/main/README.md ](ضع رابط المشروع هنا)
+  👉 [ https://github.com/zzzaaazzzaaaza44-lab/coursera-test-/blob/main/README.md ]( Link the project )
   **System store**
   A web application that allows users to make purchases, but it's not a real-world sales platform; it's simply a comprehensive project concept.
-  رابط المشروع هنا( https://github.com/zzzaaazzzaaaza44-lab/project7 )
+ا.                                                            (Link the project )   ( https://github.com/zzzaaazzzaaaza44-lab/project7 )
   
 
 ---
