@@ -2,7 +2,8 @@
 
 ## 🎓 About Me
 I am a motivated student interested in **Software Engineering** and web development.
-I am preparing my academic and technical profile .
+
+im a student studying web development and programming and i strive to omprove myself further.im at the level i've reached,but in the future,i will be among the strongest in this field
 
 I focus on building practical projects that demonstrate my understanding of programming fundamentals, logical thinking, and problem-solving.
 
