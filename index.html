@@ -2,23 +2,22 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
     <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
+   
    <div class="contenar">
     <img src="pngtree-3d-render-of-a-programmer-in-action-image_3752209.jpg" alt="" class="ava">
     <h1>ibrahem alaa ibrahem</h1>
-    <p class="sub">student Front-end & Back-end Developer </p>
+    <p class="sub">student Front-end & Back-end Developer</p>
     <div class="cards">
-<div class="card"><a href="#sss">Who iam</a></div>
-<div class="card"><a href="#nma">my services</a></div>
-<div class="card"><a href="#eee">programming languages</a></div>
-<!-- <div class="card">programming Tools</div> -->
-<div class="card"><a href="#open">communicatioon</a></div>
-<!-- <div class="card">my business</div> -->
+        <div class="card"><a href="#sss">Who iam</a></div>
+        <div class="card"><a href="#nma">my services</a></div>
+        <div class="card"><a href="#eee">programming languages</a></div>
+        <div class="card"><a href="#open">communicatioon</a></div>
     </div>
     <a href="#ses" class="btn">communication me</a>
     <div class="about">
@@ -29,7 +28,7 @@
         <ul>
             <h2 id="nma">my service</h2>
             <li class="aaa">Creating simple static websites using HTML &CSS & JS</li>
-            <li class="aaa" >Designing Responsive pages for phones and computers</li>
+            <li class="aaa">Designing Responsive pages for phones and computers</li>
             <li class="aaa">Building clean and modern UI layouts</li>
             <li class="aaa">Creating landing pages for products or personal use</li>
         </ul>
@@ -40,14 +39,110 @@
             <li class="aaa">JavaScript</li>
             <li class="aaa">mysql</li>
         </ul>
-        
-
     </div>
     <div class="hyh">
         <h2 id="ses">send me masseg</h2>
-         <a  id="open" href="https://www.facebook.com/ibrahem.ibrahem.242431"> <i class="fa-brands fa-facebook-f"></i></a> <br>
-         <a class="contact-btn" href="mailto:ibrahemalaaibrahem156@gmail.com">Contact Me in email</a>
+        <a id="open" href="https://www.facebook.com/ibrahem.ibrahem.242431"><i class="fa-brands fa-facebook-f"></i></a><br>
+        <a class="contact-btn" href="mailto:ibrahemalaaibrahem156@gmail.com">Contact Me in email</a>
     </div>
-   </div> 
+   </div>
+   
+   <div style="position: fixed; top: 10px; right: 10px;">
+    <button onclick="setLanguage('en')">EN</button>
+    <button onclick="setLanguage('ar')">AR</button>
+    <button onclick="setLanguage('ru')">RU</button>
+   </div>
+
+   <script>
+   const translations = {
+       en: {
+           "student Front-end & Back-end Developer": "Student Front-end & Back-end Developer",
+           "Who iam": "Who I am",
+           "my services": "My Services",
+           "programming languages": "Programming Languages",
+           "communicatioon": "Communication",
+           "communication me": "Contact Me",
+           "who iam": "Who I am",
+           "im a student studying web development and programming and i strive to omprove myself further.im at the level i've reached,but in the future,i will be among the strongest in this field": "I'm a student studying web development and programming, striving to improve myself continuously. I'm satisfied with my current level, but in the future I aim to be among the strongest in this field.",
+           "my service": "My Services",
+           "Creating simple static websites using HTML &CSS & JS": "Creating simple static websites using HTML, CSS & JS",
+           "Designing Responsive pages for phones and computers": "Designing responsive pages for phones and computers",
+           "Building clean and modern UI layouts": "Building clean and modern UI layouts",
+           "Creating landing pages for products or personal use": "Creating landing pages for products or personal use",
+           "send me masseg": "Send me a message",
+           "Contact Me in email": "Contact me via email",
+           "Html": "HTML",
+           "CSS": "CSS",
+           "JavaScript": "JavaScript",
+           "mysql": "MySQL"
+       },
+       ar: {
+           "student Front-end & Back-end Developer": "طالب تطوير واجهات أمامية وخلفية",
+           "Who iam": "من أنا",
+           "my services": "خدماتي",
+           "programming languages": "لغات البرمجة",
+           "communicatioon": "التواصل",
+           "communication me": "تواصل معي",
+           "who iam": "من أنا",
+           "im a student studying web development and programming and i strive to omprove myself further.im at the level i've reached,but in the future,i will be among the strongest in this field": "أنا طالب أدرس تطوير الويب والبرمجة وأسعى لتطوير نفسي باستمرار. أنا راضٍ عن المستوى الذي وصلت إليه، ولكن في المستقبل سأكون من الأقوى في هذا المجال",
+           "my service": "خدماتي",
+           "Creating simple static websites using HTML &CSS & JS": "إنشاء مواقع ويب ثابتة بسيطة باستخدام HTML و CSS و JavaScript",
+           "Designing Responsive pages for phones and computers": "تصميم صفحات متجاوبة للهواتف وأجهزة الكمبيوتر",
+           "Building clean and modern UI layouts": "بناء واجهات مستخدم نظيفة وحديثة",
+           "Creating landing pages for products or personal use": "إنشاء صفحات هبوط للمنتجات أو الاستخدام الشخصي",
+           "send me masseg": "أرسل لي رسالة",
+           "Contact Me in email": "تواصل معي عبر البريد الإلكتروني",
+           "Html": "HTML",
+           "CSS": "CSS",
+           "JavaScript": "JavaScript",
+           "mysql": "MySQL"
+       },
+       ru: {
+           "student Front-end & Back-end Developer": "Студент Front-end и Back-end разработчик",
+           "Who iam": "Кто я",
+           "my services": "Мои услуги",
+           "programming languages": "Языки программирования",
+           "communicatioon": "Связь",
+           "communication me": "Связаться со мной",
+           "who iam": "Кто я",
+           "im a student studying web development and programming and i strive to omprove myself further.im at the level i've reached,but in the future,i will be among the strongest in this field": "Я студент, изучающий веб-разработку и программирование и стремлюсь постоянно развиваться. Я доволен текущим уровнем, но в будущем буду среди лучших в этой сфере",
+           "my service": "Мои услуги",
+           "Creating simple static websites using HTML &CSS & JS": "Создание простых статических сайтов с использованием HTML, CSS и JavaScript",
+           "Designing Responsive pages for phones and computers": "Разработка адаптивных страниц для телефонов и компьютеров",
+           "Building clean and modern UI layouts": "Создание чистых и современных интерфейсов",
+           "Creating landing pages for products or personal use": "Создание лендингов для продуктов или личного использования",
+           "send me masseg": "Отправить сообщение",
+           "Contact Me in email": "Связаться со мной по email",
+           "Html": "HTML",
+           "CSS": "CSS",
+           "JavaScript": "JavaScript",
+           "mysql": "MySQL"
+       }
+   };
+
+   document.addEventListener('DOMContentLoaded', function() {
+       const elements = document.querySelectorAll("h1, h2, p, a, li");
+
+       elements.forEach(el => {
+           el.dataset.original = el.innerText.trim();
+       });
+   });
+
+   function setLanguage(lang) {
+       const elements = document.querySelectorAll("h1, h2, p, a, li");
+       
+       elements.forEach(el => {
+           const original = el.dataset.original;
+
+           if (translations[lang] && translations[lang][original]) {
+               el.innerText = translations[lang][original];
+           } else {
+               el.innerText = original;
+           }
+       });
+
+       document.body.dir = (lang === "ar") ? "rtl" : "ltr";
+   }
+   </script>
 </body>
 </html>
