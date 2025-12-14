@@ -27,6 +27,10 @@ I focus on building practical projects that demonstrate my understanding of prog
 - **Product Management System**  
   A web-based application that allows users to manage products (add, edit, delete, view).  
   👉 [ https://github.com/zzzaaazzzaaaza44-lab/coursera-test-/blob/main/README.md ](ضع رابط المشروع هنا)
+  **System store**
+  A web application that allows users to make purchases, but it's not a real-world sales platform; it's simply a comprehensive project concept.
+  رابط المشروع هنا( https://github.com/zzzaaazzzaaaza44-lab/project7 )
+  
 
 ---
 
@@ -51,5 +55,5 @@ I focus on building practical projects that demonstrate my understanding of prog
 ---
 
 ## ⭐ Notes
-This profile highlights my technical skills and independent projects as part of my preparation for academic studies in software engineering.
-https://github.com/hasansigwsx8iw12/lebanon-shop2
+This profile highlights my technical skills and independent projects as part of my preparation for academic studies in
+software engineering
