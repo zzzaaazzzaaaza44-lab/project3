@@ -34,20 +34,32 @@ The website link(https://zzzaaazzzaaaza44-lab.github.io/project3/)
 - **Product Management System**  
   A web-based application that allows users to manage products (add, edit, delete, view).
   
-   the website link(https://zzzaaazzzaaaza44-lab.github.io/coursera-test-/)
+   Live Demo link(https://zzzaaazzzaaaza44-lab.github.io/coursera-test-/)
   
-  👉 the GitHub link [ https://github.com/zzzaaazzzaaaza44-lab/coursera-test-/blob/main/README.md ]
+   the GitHub link [ https://github.com/zzzaaazzzaaaza44-lab/coursera-test-/blob/main/README.md ]
 
 
 
--  **System store**
+ **System store**
   
    A web application that allows users to make purchases,  
  
-   the website link(https://zzzaaazzzaaaza44-lab.github.io/project7/)
+   Live Demo link(https://zzzaaazzzaaaza44-lab.github.io/project7/)
   
    the GitHup link ( https://github.com/zzzaaazzzaaaza44-lab/project7)
   
+   ---
+# xo-game
+Built an interactive Tic Tac Toe game with real-time win detection logic and dynamic UI updates. Applied JavaScript event handling and conditional logic to manage game state and improve user experience.
+
+Live Demo link:  (https://ibrahemsuper.github.io/xo-game/)
+GitHup link:    (https://github.com/Ibrahemsuper/xo-game)
+
+# calculator
+Designed and developed a functional calculator capable of performing basic arithmetic operations with accurate input handling. Focused on clean UI design and efficient JavaScript logic for seamless user interaction.
+
+Live Demo Link:  (https://ibrahemsuper.github.io/calculator/)
+GitHup link:    (https://github.com/Ibrahemsuper/xo-game)
 
 ---
 
@@ -57,18 +69,6 @@ The website link(https://zzzaaazzzaaaza44-lab.github.io/project3/)
 -Building clean and modern UI layouts
 -Creating landing pages for products or personal us
 
----
-# xo-game
-Built an interactive Tic Tac Toe game with real-time win detection logic and dynamic UI updates. Applied JavaScript event handling and conditional logic to manage game state and improve user experience.
-
-Live Demo:  https://ibrahemsuper.github.io/xo-game/
-git hup:    https://github.com/Ibrahemsuper/xo-game
-
-# calculator
-Designed and developed a functional calculator capable of performing basic arithmetic operations with accurate input handling. Focused on clean UI design and efficient JavaScript logic for seamless user interaction.
-
-Live Demo:  https://ibrahemsuper.github.io/calculator/
-git hup:    https://github.com/Ibrahemsuper/xo-game
 
 
 ## 🌍 Languages
