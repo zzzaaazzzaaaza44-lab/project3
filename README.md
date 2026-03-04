@@ -10,16 +10,20 @@ I focus on building practical projects that demonstrate my understanding of prog
 ---
 
 ## 🛠️ Technical Skills
-- HTML
-- CSS
-- JavaScript
-
+-Html
+-CSS
+-JavaScript
+-REACT
+-UI-UX
+-Clean Code
+-Responsive Web Design
 ---
 
 ## 📚 Courses & Self-Study
 - Web Development Fundamentals
 - HTML & CSS for Responsive Design
 - JavaScript Basics and DOM Manipulation  
+-Bootstrap 5 Framework
 *(Self-study and online courses)*
 
 ---
@@ -48,12 +52,24 @@ The website link(https://zzzaaazzzaaaza44-lab.github.io/project3/)
 ---
 
 ## 🌐 Services
-- Simple website design
-- Front-end web development
-- Static and dynamic web pages
-- UI implementation using HTML, CSS, and JavaScript
+-Creating simple static websites using HTML &CSS & JS
+-Designing Responsive pages for phones and computers
+-Building clean and modern UI layouts
+-Creating landing pages for products or personal us
 
 ---
+# xo-game
+Built an interactive Tic Tac Toe game with real-time win detection logic and dynamic UI updates. Applied JavaScript event handling and conditional logic to manage game state and improve user experience.
+
+Live Demo:  https://ibrahemsuper.github.io/xo-game/
+git hup:    https://github.com/Ibrahemsuper/xo-game
+
+# calculator
+Designed and developed a functional calculator capable of performing basic arithmetic operations with accurate input handling. Focused on clean UI design and efficient JavaScript logic for seamless user interaction.
+
+Live Demo:  https://ibrahemsuper.github.io/calculator/
+git hup:    https://github.com/Ibrahemsuper/xo-game
+
 
 ## 🌍 Languages
 - Arabic (Native)
