@@ -30,7 +30,7 @@ I focus on building practical projects that demonstrate my understanding of prog
 
 ## 💼 Projects
 **Profile project
-The website link(https://zzzaaazzzaaaza44-lab.github.io/project3/)
+Live Demo link(https://zzzaaazzzaaaza44-lab.github.io/project3/)
 - **Product Management System**  
   A web-based application that allows users to manage products (add, edit, delete, view).
   
